@@ -2,7 +2,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="min-h-screen bg-black text-cyan-400 font-mono p-8 overflow-auto">
+    <div className="min-h-screen bg-black text-pink-400 font-mono p-8 overflow-auto">
       <div className="max-w-4xl mx-auto">
         {/* Main content */}
         <div className="space-y-6 leading-relaxed">
